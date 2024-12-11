@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['apple black rot']
+
+roboflow:
+  workspace: ddddsssdd
+  project: apple-black-rot-7mbae
+  version: 1
+  license: ODbL v1.0
+  url: https://universe.roboflow.com/ddddsssdd/apple-black-rot-7mbae/dataset/1

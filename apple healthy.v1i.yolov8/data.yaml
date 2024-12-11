@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['apple healthy']
+
+roboflow:
+  workspace: jhjhjhjh
+  project: apple-healthy-pczo4
+  version: 1
+  license: ODbL v1.0
+  url: https://universe.roboflow.com/jhjhjhjh/apple-healthy-pczo4/dataset/1

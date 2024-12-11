@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['apple rust disease']
+
+roboflow:
+  workspace: alvin-wynqw
+  project: apple-rust-disease
+  version: 1
+  license: ODbL v1.0
+  url: https://universe.roboflow.com/alvin-wynqw/apple-rust-disease/dataset/1
